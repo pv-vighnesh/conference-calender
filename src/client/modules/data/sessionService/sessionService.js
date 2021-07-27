@@ -1,4 +1,4 @@
-const URL = 'https://conference-lwc-app.herokuapp.com/api/sessions';
+const URL = 'https://salesforce-conference-api.herokuapp.com/api/sessions';
 
 let sessions = [];
 
